@@ -34,18 +34,18 @@ Using Python, I performed the following calculations:
 - Volume change amount and percentage
 
 For the code check the file: 
-
+https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Stock_Market.ipynb
 ### 3. Save the Data to CSV Files
 The calculated data was saved from the dataframes to CSV files for use in Tableau.
 
 ### 4. Create Dashboard in Tableau
 I imported the CSV files into Tableau to create an interactive dashboard. The dashboard includes charts for trading volume, price percent change, and moving averages.
 ## Results
-Check  file :
+Download the file and open in Tableau :
 https://github.com/Sus-31/Stock_Price_Analysis/blob/main/stock_price_analysis.twb
 ![Alt Text](https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Dashboard-screenshot.png)
 ## Analysis
 For the analysis check the report: 
-
+https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Stock_price_analysis_report.docx
 ## Conclusion
 This analysis provides a comprehensive view of the stock performance of these major companies over the specified period, offering insights into their trading behaviors and market trends.

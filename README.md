@@ -42,7 +42,7 @@ The calculated data was saved from the dataframes to CSV files for use in Tablea
 I imported the CSV files into Tableau to create an interactive dashboard. The dashboard includes charts for trading volume, price percent change, and moving averages.
 ## Results
 Check  file :
-
+https://github.com/Sus-31/Stock_Price_Analysis/blob/main/stock_price_analysis.twb
 ![Alt Text](https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Dashboard-screenshot.png)
 ## Analysis
 For the analysis check the report: 

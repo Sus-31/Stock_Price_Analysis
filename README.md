@@ -43,6 +43,7 @@ I imported the CSV files into Tableau to create an interactive dashboard. The da
 ## Results
 Check  file :
 
+![Alt Text](https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Dashboard-screenshot.png)
 https://github.com/Sus-31/Stock_Price_Analysis/blob/main/Dashboard-screenshot.png
 ## Analysis
 For the analysis check the report: 

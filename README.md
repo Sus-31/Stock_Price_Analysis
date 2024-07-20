@@ -1,6 +1,6 @@
 # Stock Price Analysis Project
 
-This project analyzes the stock market performance of six major companies: Amazon, Apple, Google, Microsoft, NVIDIA, and Tesla. The analysis covers the period from April 1, 2016, to April 1, 2020.
+This project analyses the stock market performance of six major companies: Amazon, Apple, Google, Microsoft, NVIDIA, and Tesla. The analysis covers the period from April 1, 2016, to April 1, 2020.
 
 ## Table of Contents
 
